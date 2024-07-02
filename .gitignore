@@ -1,6 +1,8 @@
-redes2_trab
+redes_trab
 target/
 audio/*.wav
-redes2_trab.iml
-redes2_trab.iws
+redes_trab.iml
+redes_trab.iws
 ${project.build.directory}/
+
+.vscode
