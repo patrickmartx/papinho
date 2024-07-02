@@ -1,0 +1,6 @@
+redes2_trab
+target/
+audio/*.wav
+redes2_trab.iml
+redes2_trab.iws
+${project.build.directory}/
